@@ -1,4 +1,7 @@
 import 'package:injectable/injectable.dart';
 
 @module
-abstract class ThirdPartyInjectableModule {}
+abstract class ThirdPartyInjectableModule {
+
+   
+}
